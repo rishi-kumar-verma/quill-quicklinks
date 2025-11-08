@@ -31,7 +31,7 @@ import { QuillEditor } from 'quill-quicklinks';
 function App() {
   return (
     <QuillEditor
-      show={true}
+      showQuickLinksMenu={true}
       defaultModule="link"
       modules={{
         toolbar: [['bold', 'italic'], ['link']],
