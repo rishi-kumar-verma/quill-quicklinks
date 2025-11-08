@@ -2,6 +2,14 @@
   "name": "quill-quicklinks",
   "version": "0.1.1",
   "description": "React 16.13 wrapper for Quill 2.0.3 with custom QuickLinks above the toolbar",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rishi-kumar-verma/quill-quicklinks.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rishi-kumar-verma/quill-quicklinks/issues"
+  },
+  "homepage": "https://github.com/rishi-kumar-verma/quill-quicklinks#readme",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
